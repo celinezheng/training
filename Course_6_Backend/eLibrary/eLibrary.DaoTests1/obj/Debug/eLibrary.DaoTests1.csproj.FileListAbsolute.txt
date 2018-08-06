@@ -1,0 +1,17 @@
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.DaoTests1.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.DaoTests1.pdb
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.Dao.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.Model.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\System.Web.Mvc.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.Common.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\log4net.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.Dao.pdb
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.Model.pdb
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\System.Web.Mvc.xml
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.Common.pdb
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\log4net.xml
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\obj\Debug\eLibrary.DaoTests1.csprojResolveAssemblyReference.cache
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\obj\Debug\eLibrary.DaoTests1.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\obj\Debug\eLibrary.DaoTests1.pdb
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section2\eLibrary\eLibrary.DaoTests1\bin\Debug\eLibrary.DaoTests1.dll.config

@@ -1,0 +1,7 @@
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section1\eLibrary\eLibrary.Common\bin\Debug\eLibrary.Common.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section1\eLibrary\eLibrary.Common\bin\Debug\eLibrary.Common.pdb
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section1\eLibrary\eLibrary.Common\obj\Debug\eLibrary.Common.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section1\eLibrary\eLibrary.Common\obj\Debug\eLibrary.Common.pdb
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section1\eLibrary\eLibrary.Common\bin\Debug\log4net.dll
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section1\eLibrary\eLibrary.Common\bin\Debug\log4net.xml
+C:\Users\鄭淑綾\Desktop\新人教育訓練教材\Course6_BackEnd\Section1\eLibrary\eLibrary.Common\obj\Debug\eLibrary.Common.csprojResolveAssemblyReference.cache
